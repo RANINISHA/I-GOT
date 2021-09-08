@@ -13,7 +13,10 @@
  
   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-27-55.png?raw=true"> </p>
 
-  
+    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-27-55.png?raw=true"> </p>
+
+   <p align="center" > <img src=""> </p>
+
  ------- 
    
   
@@ -23,21 +26,46 @@
 
   <ul>
   <li> cpu usage: it shows cpu  utilization</li>
+      <p align="center" > <img src=""> </p>
+
    
   
 
   <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
+      <p align="center" > <img src=""> </p>
+
   <li> Memory quota : I this matrics we have memory request and memory limit</li>
+      <p align="center" > <img src=""> </p>
+
   <li> current network usage :</li>
-  <li> Recieved bandwidth: 
+      <p align="center" > <img src=""> </p>
+
+   <li> Recieved bandwidth: </li>
+      <p align="center" > <img src=""> </p>
+
     <li> Transmittes bandwidth : </li>
+      <p align="center" > <img src=""> </p>
+
     <li> Average Container Bandwidth by Pod: Received : </li>
+      <p align="center" > <img src=""> </p>
+
     <li> Average Container Bandwidth by Pod: Transmitted: </li>
+      <p align="center" > <img src=""> </p>
+
    <li> Average Container Bandwidth by Pod: Transmitted: </li>
+      <p align="center" > <img src=""> </p>
+
     <li> Rate of recieved packets : </li>
+      <p align="center" > <img src=""> </p>
+
     <li> Rate of Transmitted packets: </li>
+      <p align="center" > <img src=""> </p>
+
     <li> Rate of recieved packets dropped: </li>
+      <p align="center" > <img src=""> </p>
+
     <li> Rate of Transmitted packets dropped: </li>
+   <p align="center" > <img src=""> </p>
 
    </ul>
   </details>
