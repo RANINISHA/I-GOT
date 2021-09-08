@@ -29,18 +29,20 @@
 
   <ul>
   <li> cpu usage: it shows cpu  utilization</li>
-      <p align="center" > <img src=""> </p>
+      <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/cpu_usage.png"> </p>
+
+   <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
+      
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/cpu_quota.png"> </p>
+   
+     <li> Memory usage : It shows memory utilization </li>
+
+     <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/memory_usage.png"> </p>
 
    
-  
-
-  <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
-      
-   <p align="center" > <img src=""> </p>
-
   <li> Memory quota : I this matrics we have memory request and memory limit</li>
       
-   <p align="center" > <img src=""> </p>
+  <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/memory_quota.png"> </p>
 
   <li> current network usage :</li>
       
