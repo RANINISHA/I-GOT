@@ -4,7 +4,7 @@
 
   <h2 align="center"> ABOUT the Dashboard  </h2>
 
-<p align="center" >  </p>
+<p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-06-22%2022-19-14.png"> </p>
   
 <p align="center">  Requests and limits are the mechanisms Kubernetes uses to control resources such as CPU and memory. Requests are what the container is guaranteed to get. If a container requests a resource, Kubernetes will only schedule it on a node that can give it that resource. Limits, on the other hand, make sure a container never goes above a certain value. The container is only allowed to go up to the limit, and then it is restricted. </p >
   
@@ -18,7 +18,7 @@
   <ul>
   <li> cpu usage: it shows cpu  utilization</li>
    
-   ![image](https://user-images.githubusercontent.com/67364720/132475731-bcddf4ed-42b2-4c07-9f43-9e190d383cf9.png)
+  
 
   <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
   <li> Memory quota : I this matrics we have memory request and memory limit</li>
