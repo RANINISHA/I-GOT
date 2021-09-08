@@ -50,27 +50,31 @@
       
    <p align="center" > <img src=""> </p>
 
-    <li> Transmitted bandwidth : </li>
+   <li>transmitted bandwidth : in this matrics we have cpu request and cpu limit </li>
+      
+   <p align="center" > <img src=""> </p>
+
+  <li> Average Container Bandwidth Received by pod : I this matrics we have memory request and memory limit</li>
+      
+   <p align="center" > <img src=""> </p>
+
+  <li> Average Container Bandwidth Transmitted by pod :</li>
+      
+   <p align="center" > <img src=""> </p>
+
+   <li> Rate of Received Packets: </li>
+      
+   <p align="center" > <img src=""> </p>
+
+    <li> Rate of Transmitted Packets : </li>
       
    <p align="center" > <img src=""> </p>
    
-   <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
+   <li> Rate of Received Packets Dropped: </li>
       
    <p align="center" > <img src=""> </p>
 
-  <li> Memory quota : I this matrics we have memory request and memory limit</li>
-      
-   <p align="center" > <img src=""> </p>
-
-  <li> current network usage :</li>
-      
-   <p align="center" > <img src=""> </p>
-
-   <li> Recieved bandwidth: </li>
-      
-   <p align="center" > <img src=""> </p>
-
-    <li> Transmittes bandwidth : </li>
+    <li> Rate of Transmitted Packets Dropped : </li>
       
    <p align="center" > <img src=""> </p>
 
