@@ -16,9 +16,12 @@
     <summary><b> Click here</b> :point_left:</summary>
 
   <ul>
-  <li> cpu usage: </li>
-  <li>cpu quota :  </li>
-  <li> Memory quota : </li>
+  <li> cpu usage: it shows cpu  utilization</li>
+   
+   ![image](https://user-images.githubusercontent.com/67364720/132475731-bcddf4ed-42b2-4c07-9f43-9e190d383cf9.png)
+
+  <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
+  <li> Memory quota : I this matrics we have memory request and memory limit</li>
   <li> current network usage :</li>
   <li> Recieved bandwidth: 
     <li> Transmittes bandwidth : </li>
