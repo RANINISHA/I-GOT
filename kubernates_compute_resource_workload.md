@@ -46,7 +46,7 @@
 
   <li> current network usage :</li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Network_usage.png"> </p>
 
    <li> Recieved bandwidth: </li>
       
