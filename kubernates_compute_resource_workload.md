@@ -1,4 +1,4 @@
-<h1 align="center"> Kubernetes / Compute Resources / Workload <h1>
+<h1 align="center"> Kubernetes / Compute Resources / Workload Dashboard in grafana <h1>
  
    <h2 align="center"> WHAT IS GRAFANA </h2>
  
@@ -50,7 +50,7 @@
       
   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/memory_quota.png"> </p>
 
-  <li> current network usage :</li>
+  <li> current network usage :Network utilization is the proportion of the current network traffic to the maximum amount of traffic that can be handled. It indicates the bandwidth consumption in the network. While high network traffic means that the network is overloaded, low network traffic means that the network is not busy.</li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Network_usage.png"> </p>
 
