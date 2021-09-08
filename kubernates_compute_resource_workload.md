@@ -66,7 +66,7 @@
       
    <p align="center" > <img src=""> </p>
 
-    <li> Rate of Transmitted Packets : </li>
+   <li> Rate of Transmitted Packets : </li>
       
    <p align="center" > <img src=""> </p>
    
@@ -74,7 +74,7 @@
       
    <p align="center" > <img src=""> </p>
 
-    <li> Rate of Transmitted Packets Dropped : </li>
+   <li> Rate of Transmitted Packets Dropped : </li>
       
    <p align="center" > <img src=""> </p>
 
