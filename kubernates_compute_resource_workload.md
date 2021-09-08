@@ -2,12 +2,8 @@
  
  
 
-  <h2 align="center"> grafana home page </h2>
+  <h2 align="center"> GRAFANA HOME PAGE </h2>
  
- <p align="center">  This dashboard shows you all the same panels for CPU, memory and network, narrowed down to a single workload view.
- Select a namespace then a workload, and the panels will show metrics for all pods that correspond to that workload.</p >
-  
-
 <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-26-07.png"> </p>
   
  <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-26-48.png?raw=true"> </p>
