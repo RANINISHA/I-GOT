@@ -13,9 +13,7 @@
  
   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-27-55.png?raw=true"> </p>
 
-    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-27-55.png?raw=true"> </p>
-
-   <p align="center" > <img src="![image](https://user-images.githubusercontent.com/67364720/132482147-b7845b93-5ce2-42b6-ac20-15604f2bdab3.png)"> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-48-34.png?raw=true"></p>
 
  ------- 
    
