@@ -1,10 +1,16 @@
 <h1 align="center"> Kubernetes / Compute Resources / Workload <h1>
  
+   <h2 align="center"> WHAT IS GRAFANA </h2>
  
-
-  <h2 align="center"> GRAFANA HOME PAGE </h2>
+ <p align="center">  Grafana is a widely used open source visualization tool with a strong community support. It is used in every other organization mostly for live Dashboard and monitoring purposes. It supports a huge number of databases including InfluxDB, MySQL, Graphite & Elasticsearch. It also gives a huge option for plugin which can help to fulfill your requirements and customize your dashboard.</p >
+  
+ <h2 align="center"> WHAT IS kUBERNATES </h2>
  
-<p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-26-07.png"> </p>
+ <p align="center"> Kubernetes, as a platform, is a comprehensive set of tools for orchestrating containers at scale. It consists of a modular architecture of specific components with a defined purpose. For example, the scheduler finds the ideal match for a particular pod and the kube-proxy manages the networking between the nodes and the master. </p >
+  
+ <h2 align="center"> GRAFANA HOME PAGE </h2>
+ 
+ <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-26-07.png"> </p>
   
  <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Screenshot%20from%202021-09-08%2012-26-48.png?raw=true"> </p>
  
