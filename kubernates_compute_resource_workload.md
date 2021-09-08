@@ -35,36 +35,47 @@
   
 
   <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
   <li> Memory quota : I this matrics we have memory request and memory limit</li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
   <li> current network usage :</li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
    <li> Recieved bandwidth: </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
     <li> Transmittes bandwidth : </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
     <li> Average Container Bandwidth by Pod Received : </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
     <li> Average Container Bandwidth by Pod Transmitted: </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
     <li> Rate of recieved packets : </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
     <li> Rate of Transmitted packets: </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
     <li> Rate of recieved packets dropped: </li>
-      <p align="center" > <img src=""> </p>
+      
+   <p align="center" > <img src=""> </p>
 
     <li> Rate of Transmitted packets dropped: </li>
+    
    <p align="center" > <img src=""> </p>
 
    </ul>
