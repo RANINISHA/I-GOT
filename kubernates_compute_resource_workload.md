@@ -48,35 +48,35 @@
 
    <li> Recieved bandwidth: </li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rb.png"> </p>
 
    <li>transmitted bandwidth : in this matrics we have cpu request and cpu limit </li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Tb.png"> </p>
 
   <li> Average Container Bandwidth Received by pod : I this matrics we have memory request and memory limit</li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/acbbp.png"> </p>
 
   <li> Average Container Bandwidth Transmitted by pod :</li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/acbbpt.png"> </p>
 
    <li> Rate of Received Packets: </li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rorp.png"> </p>
 
    <li> Rate of Transmitted Packets : </li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rotp.png"> </p>
    
    <li> Rate of Received Packets Dropped: </li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rorpd.png"> </p>
 
    <li> Rate of Transmitted Packets Dropped : </li>
       
-   <p align="center" > <img src=""> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rotpd.png"> </p>
 
    
    </ul>
