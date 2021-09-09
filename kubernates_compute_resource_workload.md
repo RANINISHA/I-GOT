@@ -34,19 +34,19 @@
     <summary><b> Click here</b> :point_left:</summary>
 
   <ul>
-  <li> cpu usage: it shows cpu  utilization</li>
+  <li> cpu usage: CPU utilization refers to a computer's usage of processing resources, or the amount of work handled by a CPU.</li>
       <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/cpu_usage.png"> </p>
 
-   <li>cpu quota : in this matrics we have cpu request and cpu limit </li>
+   <li>cpu quota : in this matrics we have cpu request i.e  processing resource required by pods and cpu limit  i.e maximum  cpu alloted to pods </li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/cpu_quota.png"> </p>
    
-   <li> Memory usage : It shows memory utilization </li>
+   <li> Memory usage : The amount of RAM used by pods at a certain unit of time.</li>
 
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/memory_usage.png"> </p>
 
    
-  <li> Memory quota : I this matrics we have memory request and memory limit</li>
+  <li> Memory quota : I this matrics we have memory request  i.e ram required by pods and memory limit i.e maximum ram allotted to the pods</li>
       
   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/memory_quota.png"> </p>
 
