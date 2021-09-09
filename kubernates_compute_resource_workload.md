@@ -76,11 +76,11 @@
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/acbbpt.png"> </p>
 
-   <li> Rate of Received Packets: </li>
+   <li> Rate of Received Packets: measured as the ratio of number of packets delivered in total to the total number of packets sent from source node to destination node in the network.</li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rorp.png"> </p>
 
-   <li> Rate of Transmitted Packets : </li>
+   <li> Rate of Transmitted Packets :measured as the ratio of number of packets transfered in total to the total number of packets sent from source node to destination node in the network. </li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rotp.png"> </p>
    
