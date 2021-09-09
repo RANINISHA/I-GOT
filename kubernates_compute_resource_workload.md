@@ -14,7 +14,7 @@
  
   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/dashboard1.png"> </p>
 
-  <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/dashboard2.png"> </p>
+  <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/D5.png"> </p>
 
   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/d4.png"> </p>
 
