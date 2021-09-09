@@ -54,19 +54,19 @@
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Network_usage.png"> </p>
 
-   <li> Recieved bandwidth: </li>
+   <li> Recieved bandwidth: it's actually the volume of information that can be recieved  over a connection in a measured amount of time – calculated in megabits per second (Mbps). </li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/rb.png"> </p>
 
-   <li>transmitted bandwidth : in this matrics we have cpu request and cpu limit </li>
+   <li>Transmitted bandwidth : it's actually the volume of information that can be sent over a connection in a measured amount of time – calculated in megabits per second (Mbps). </li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/Tb.png"> </p>
 
-  <li> Average Container Bandwidth Received by pod : I this matrics we have memory request and memory limit</li>
+  <li> Average Container Bandwidth Received by pod : it's actually the volume of information that can be recieved over a connection by a pod in a measured amount of time – calculated in megabits per second (Mbps) </li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/acbbp.png"> </p>
 
-  <li> Average Container Bandwidth Transmitted by pod :</li>
+  <li> Average Container Bandwidth Transmitted by pod : it's actually the volume of information that can be sent over a connection  by  a pod in a measured amount of time – calculated in megabits per second (Mbps)</li>
       
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/acbbpt.png"> </p>
 
