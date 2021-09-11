@@ -34,8 +34,15 @@
 
  ------- 
    
+  <h2 align="center"> WORKLOAD DETAIL WITH PODS</h2>
+ 
+   <p align="center" > <img src=" https://github.com/RANINISHA/RANINISHA/blob/main/workload1.png"</p>
+  <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload2.png"> </p>
+  <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload3.png"> </p>
   
-  <h2 align="center"> Metrics List </h2>
+ ------
+
+   <h2 align="center"> Metrics List </h2>
    <details close="close"> 
     <summary><b> Click here</b> :point_left:</summary>
 
