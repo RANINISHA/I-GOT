@@ -36,9 +36,9 @@
    
   <h2 align="center"> WORKLOAD DETAIL WITH PODS</h2>
  
-   <p align="center" > <img src=" https://github.com/RANINISHA/RANINISHA/blob/main/workload1.png"</p>
-   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload2.png"> </p>
-   <p a lign="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload3.png"> </p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload1.png"</p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload2.png"></p>
+   <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload3.png"> </p>
   
  ------
 
