@@ -36,6 +36,8 @@
    
   <h2 align="center"> WORKLOAD DETAIL WITH PODS</h2>
  
+ <p align="center"> In this dashboard we are monitoring matrices of namespace prod  under this namespace we have 41 workloads .</p >
+ 
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/W1.png"</p>
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload2.png"></p>
    <p align="center" > <img src="https://github.com/RANINISHA/RANINISHA/blob/main/workload3.png"> </p>
