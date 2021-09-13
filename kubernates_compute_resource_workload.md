@@ -4,7 +4,7 @@
  
  <p align="center">  Grafana is a widely used open source visualization tool with a strong community support. It is used in every other organization mostly for live Dashboard and monitoring purposes. It supports a huge number of databases including InfluxDB, MySQL, Graphite & Elasticsearch. It also gives a huge option for plugin which can help to fulfill your requirements and customize your dashboard.</p >
   
- <h2 align="center"> WHAT IS kUBERNATES </h2>
+ <h2 align="center"> WHAT IS KUBERNATES </h2>
  
  <p align="center"> Kubernetes, as a platform, is a comprehensive set of tools for orchestrating containers at scale. It consists of a modular architecture of specific components with a defined purpose. For example, the scheduler finds the ideal match for a particular pod and the kube-proxy manages the networking between the nodes and the master. </p >
   
